@@ -1,0 +1,94 @@
+[
+    {
+        "id": 5,
+        "name": "elixer storage LVL 8",
+        "resource": "gold",
+        "cost": 1600000,
+        "time": 19,
+        "outcome": {
+            "variable": "maxElixer",
+            "displayName": "Max Elixer Storage",
+            "amount": 400000
+        }
+    },
+    {
+        "id": 3,
+        "name": "elixer mine LVL 9",
+        "resource": "gold",
+        "cost": 320000,
+        "time": 11,
+        "outcome": {
+            "variable": "eRate",
+            "displayName": "Elixer Rate",
+            "amount": 500
+        }
+    },
+    {
+        "id": 4,
+        "name": "gem mine LVL 6",
+        "resource": "elixer",
+        "cost": 1200000,
+        "time": 10,
+        "outcome": {
+            "variable": "gemRate",
+            "displayName": "Gem Rate",
+            "amount": 0.2
+        }
+    },
+    {
+        "id": 6,
+        "name": "mega tesla LVL 6",
+        "resource": "gold",
+        "cost": 2880000,
+        "time": 58
+    },
+    {
+        "id": 7,
+        "name": "battle machine LVL 13",
+        "resource": "elixer",
+        "cost": 1877000,
+        "time": 38
+    },
+    {
+        "id": 8,
+        "name": "star laboratory LVL 8",
+        "resource": "elixer",
+        "cost": 2400000,
+        "time": 58
+    },
+    {
+        "id": 9,
+        "name": "mega tesla LVL 7",
+        "resource": "gold",
+        "cost": 3040000,
+        "time": 76
+    },
+    {
+        "id": 10,
+        "name": "battle machine LVL 14",
+        "resource": "elixer",
+        "cost": 1920000,
+        "time": 38
+    },
+    {
+        "id": 11,
+        "name": "cannon cart LVL 15",
+        "resource": "elixer",
+        "cost": 2720000,
+        "time": 0
+    },
+    {
+        "id": 12,
+        "name": "cannon cart LVL 16",
+        "resource": "elixer",
+        "cost": 2880000,
+        "time": 0
+    },
+    {
+        "id": 13,
+        "name": "mega tesla LVL 8",
+        "resource": "gold",
+        "cost": 3200000,
+        "time": 96
+    }
+]
